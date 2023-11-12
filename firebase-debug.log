@@ -1,0 +1,105 @@
+[debug] [2023-11-12T16:34:00.313Z] ----------------------------------------------------------------------
+[debug] [2023-11-12T16:34:00.315Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kosyc\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-11-12T16:34:00.315Z] CLI Version:   12.8.0
+[debug] [2023-11-12T16:34:00.315Z] Platform:      win32
+[debug] [2023-11-12T16:34:00.316Z] Node Version:  v18.18.2
+[debug] [2023-11-12T16:34:00.316Z] Time:          Sun Nov 12 2023 19:34:00 GMT+0300 (Москва, стандартное время)
+[debug] [2023-11-12T16:34:00.317Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-11-12T16:34:00.382Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-11-12T16:34:00.382Z] > authorizing via signed-in user (kosych.ivan13@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\1Freelancer\FreelancerVue\hw9.2-v2
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-11-12T16:34:06.097Z] Using project from CLI flag: homework9-2
+[debug] [2023-11-12T16:34:06.099Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/homework9-2 [none]
+[debug] [2023-11-12T16:34:06.769Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/homework9-2 200
+[debug] [2023-11-12T16:34:06.770Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/homework9-2 {"projectId":"homework9-2","projectNumber":"908975000617","displayName":"homework9-2","name":"projects/homework9-2","resources":{"hostingSite":"homework9-2"},"state":"ACTIVE","etag":"1_946acb4e-8963-4b8e-989a-26cb5055e9c5"}
+[info] i  Using project homework9-2 (homework9-2) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2023-11-12T16:35:34.188Z] ----------------------------------------------------------------------
+[debug] [2023-11-12T16:35:34.189Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kosyc\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-11-12T16:35:34.190Z] CLI Version:   12.8.0
+[debug] [2023-11-12T16:35:34.190Z] Platform:      win32
+[debug] [2023-11-12T16:35:34.190Z] Node Version:  v18.18.2
+[debug] [2023-11-12T16:35:34.191Z] Time:          Sun Nov 12 2023 19:35:34 GMT+0300 (Москва, стандартное время)
+[debug] [2023-11-12T16:35:34.191Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-11-12T16:35:34.258Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-11-12T16:35:34.259Z] > authorizing via signed-in user (kosych.ivan13@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\1Freelancer\FreelancerVue\hw9.2-v2
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-11-12T16:35:37.570Z] Using project from CLI flag: homework9-2
+[debug] [2023-11-12T16:35:37.572Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/homework9-2 [none]
+[debug] [2023-11-12T16:35:38.248Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/homework9-2 200
+[debug] [2023-11-12T16:35:38.248Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/homework9-2 {"projectId":"homework9-2","projectNumber":"908975000617","displayName":"homework9-2","name":"projects/homework9-2","resources":{"hostingSite":"homework9-2"},"state":"ACTIVE","etag":"1_946acb4e-8963-4b8e-989a-26cb5055e9c5"}
+[info] i  Using project homework9-2 (homework9-2) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2023-11-12T16:35:44.300Z] >>> [apiv2][query] GET https://www.gstatic.com/firebasejs/releases.json [none]
+[debug] [2023-11-12T16:35:45.565Z] <<< [apiv2][status] GET https://www.gstatic.com/firebasejs/releases.json 200
+[debug] [2023-11-12T16:35:45.565Z] <<< [apiv2][body] GET https://www.gstatic.com/firebasejs/releases.json {"current":{"version":"10.6.0","browserURL":"https://www.gstatic.com/firebasejs/10.6.0/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/10.6.0/firebase.tgz"},"live":{"version":"10.6","browserURL":"https://www.gstatic.com/firebasejs/live/10.6/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/live/10.6/firebase.tgz"},"components":{"analytics":"https://www.gstatic.com/firebasejs/10.6.0/firebase-analytics.js","app":"https://www.gstatic.com/firebasejs/10.6.0/firebase-app.js","app-check":"https://www.gstatic.com/firebasejs/10.6.0/firebase-app-check.js","auth":"https://www.gstatic.com/firebasejs/10.6.0/firebase-auth.js","auth/cordova":"https://www.gstatic.com/firebasejs/10.6.0/firebase-auth/cordova.js","functions":"https://www.gstatic.com/firebasejs/10.6.0/firebase-functions.js","firestore":"https://www.gstatic.com/firebasejs/10.6.0/firebase-firestore.js","firestore/lite":"https://www.gstatic.com/firebasejs/10.6.0/firebase-firestore/lite.js","installations":"https://www.gstatic.com/firebasejs/10.6.0/firebase-installations.js","storage":"https://www.gstatic.com/firebasejs/10.6.0/firebase-storage.js","performance":"https://www.gstatic.com/firebasejs/10.6.0/firebase-performance.js","remote-config":"https://www.gstatic.com/firebasejs/10.6.0/firebase-remote-config.js","messaging":"https://www.gstatic.com/firebasejs/10.6.0/firebase-messaging.js","messaging/sw":"https://www.gstatic.com/firebasejs/10.6.0/firebase-messaging/sw.js","database":"https://www.gstatic.com/firebasejs/10.6.0/firebase-database.js","firestore.memory":"https://www.gstatic.com/firebasejs/10.6.0/firebase-firestore.memory.js"}}
+[info] i  Skipping write of dist/index.html 
+[info] 
+[info] i  Writing configuration info to firebase.json... 
+[info] i  Writing project information to .firebaserc... 
+[info] 
+[info] +  Firebase initialization complete! 
+[debug] [2023-11-12T16:35:51.830Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\kosyc\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[error] 
+[error] Error: An unexpected error has occurred.
